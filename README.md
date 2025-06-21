@@ -8,10 +8,7 @@
 <h1 align="center">Hi 👋, I'm Hafiz Muzamil</h1>
 <h3 align="center">"Full Stack Developer | MERN Stack Expert | 3+ Years Experience in Scalable Web Solutions"</h3>
 
-
-- 🌱 I’m currently learning **AngularJS**
-
-- 💬 Ask me about **MERN Stack, ReactJS, NodeJS**
+- 💬 Ask me about **Full Stack Developer, ReactJS, AngularJS, NodeJS**
 
 <!-- - 📫 How to reach me **malikmuzamil92110@gmail.com** -->
  
