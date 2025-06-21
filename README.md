@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Hafiz Muzamil</h1>
-<h3 align="center">"Full Stack Developer | MERN Stack Expert | 3+ Years Experience in Scalable Web Solutions"</h3>
+<h3 align="center">"Full Stack Developer | MERN/ MEAN Stack Expert | 3+ Years Experience in Scalable Web Solutions"</h3>
 
 - 💬 Ask me about **Full Stack Developer, ReactJS, AngularJS, NodeJS**
 
