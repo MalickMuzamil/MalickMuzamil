@@ -1,6 +1,3 @@
-[![Master-head](https://backiee.com/static/wallpapers/1920x1080/386745.jpg)](https://github.com/malikmuzamil)
-
-
 # 💫 About Me:
 ## 🚀 About Me<br><br>💼 Software Engineer at PostEx, focused on building reliable, scalable, and high-performance software solutions.<br><br>🌐 Full-Stack Engineer with experience across frontend, backend, databases, cloud infrastructure, and system integrations.<br><br>🤝 Open to collaborating on innovative products, open-source initiatives, and engineering-focused projects.<br><br>📚 Currently exploring distributed systems, cloud-native architectures, Kubernetes, DevOps, and platform engineering.<br><br>💬 Ask me about Full-Stack Development, Software Architecture, API Design, Databases, Cloud Technologies, and System Scalability.<br><br>⚡ Passionate about creating technology that delivers real business impact while maintaining clean and maintainable code.
 
@@ -17,12 +14,4 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MalickMuzamil&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=MalickMuzamil&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
