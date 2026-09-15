@@ -2,8 +2,6 @@
 
 # 💫 About Me:
 
-## 🚀 About Me
-
 💼 **Associate Software Engineer at Alpha Bridge**, building scalable, reliable, and high-performance software solutions.
 
 💻 **Full-Stack Developer & Data Engineer** with hands-on experience across frontend development, backend engineering, databases, data pipelines, cloud infrastructure, and system integrations.
